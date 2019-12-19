@@ -5,9 +5,11 @@ Simple and very effective validator for JavaScript
 Usage
 -----
 
-<code>import Validator from '[your-validator-path]</code>
+`import Validator from '[your-validator-path]`
+
 or
-<code>var validator = require([here-your-validator-path])</code>
+
+`var validator = require([here-your-validator-path])`
 
 - [type](#type)
 - [isString](#isString)

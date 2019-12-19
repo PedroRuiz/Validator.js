@@ -1,0 +1,27 @@
+{
+  "name": "@pedroruiz/validator",
+  "version": "1.0.0",
+  "description": "Simple and effective Validator",
+  "main": "Validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroRuiz/Validator.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "validator"
+  ],
+  "author": "Pedro Ruiz Hidalgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroRuiz/Validator.js/issues"
+  },
+  "homepage": "https://github.com/PedroRuiz/Validator.js#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "microbundle": "^0.11.0"
+  }
+}
