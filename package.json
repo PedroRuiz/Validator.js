@@ -1,6 +1,6 @@
 {
   "name": "@pedroruiz/validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and effective Validator",
   "main": "Validator.js",
   "scripts": {
@@ -26,5 +26,8 @@
     "babel-jest": "^24.9.0",
     "jest": "^24.9.0",
     "microbundle": "^0.11.0"
+  },
+  "dependencies": {
+    "npm-install-all": "^1.1.21"
   }
 }
